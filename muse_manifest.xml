@@ -1,0 +1,237 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="filmsforyou.ru" resolutions="1x" timestamp="1511622387444">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="room-1.css" crc="364666089" ref="room-1"/>
+    <file name="room-2.css" crc="4067589965" ref="room-2"/>
+    <file name="index.css" crc="4028742063" ref="index"/>
+    <file name="home.css" crc="44086821" ref="home"/>
+    <file name="iefonts_home.css" crc="4086803610" ref="home"/>
+    <file name="room-3.css" crc="3903333232" ref="room-3"/>
+    <file name="master_______-a.css" crc="3919419200" ref="room-2:home:room-1:index:room-3"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home:phone>rome-1:phone>rome-2:phone>rome-3:index:home:room-2:room-1:room-3"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>home:phone>rome-1:phone>rome-2:phone>rome-3:index:home:room-2:room-1:room-3"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>home:phone>rome-1:phone>rome-2:phone>rome-3:index:home:room-2:room-1:room-3"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>home:phone>rome-1:phone>rome-2:phone>rome-3:index:home:room-2:room-1:room-3"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:phone>home:phone>rome-1:phone>rome-2:phone>rome-3:index:home:room-2:room-1:room-3"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="phone>index:phone>home:phone>rome-1:phone>rome-2:phone>rome-3:index:home:room-2:room-1:room-3"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>index:phone>home:phone>rome-1:phone>rome-2:phone>rome-3:index:home:room-2:room-1:room-3"/>
+    <file name="touchswipe.js" crc="4066113679" ref="phone>index:phone>home:phone>rome-1:phone>rome-2:phone>rome-3:index:home:room-2:room-1:room-3"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>home:phone>rome-1:phone>rome-2:phone>rome-3:index:home:room-2:room-1:room-3"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>home:phone>rome-1:phone>rome-2:phone>rome-3:index:home:room-2:room-1:room-3"/>
+    <file name="form_check.php" crc="147359589" ref="phone>home"/>
+    <file name="form_throttle.php" crc="93986428" ref="phone>home"/>
+    <file name="form_process.php" crc="3851993751" ref="phone>home"/>
+    <file name="form-u5151.php" crc="3853604540" ref="phone>home"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>home:phone>rome-1:phone>rome-2:phone>rome-3:home:room-2:room-1:room-3"/>
+    <file name="form-u4349.php" crc="6131998" ref="home"/>
+    <file name="form-u4839.php" crc="373788203" ref="room-2"/>
+    <file name="form-u4942.php" crc="4116528757" ref="room-1"/>
+    <file name="form-u5045.php" crc="137364694" ref="room-3"/>
+  </folder>
+  <folder name="images">
+    <file name="logo55-u4066.png" crc="165968265" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>home:phone>rome-1:phone>rome-2:phone>rome-3:index:home:room-2:room-1:room-3"/>
+    <file name="bg2.jpg" crc="4256931632" seo="true" ref="phone>index:phone>home:phone>rome-1:phone>rome-2:phone>rome-3:index:home:room-2:room-1:room-3">
+      <caption webpage="rome-3" alt=""/>
+      <caption webpage="room-1" alt=""/>
+      <caption webpage="rome-1" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="room-2" alt=""/>
+      <caption webpage="rome-2" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="room-3" alt=""/>
+    </file>
+    <file name="bg1.jpg" crc="3999129576" seo="true" ref="phone>index:phone>home:phone>rome-1:phone>rome-2:phone>rome-3:index:home:room-2:room-1:room-3">
+      <caption webpage="rome-3" alt=""/>
+      <caption webpage="room-1" alt=""/>
+      <caption webpage="rome-1" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="room-2" alt=""/>
+      <caption webpage="rome-2" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="room-3" alt=""/>
+    </file>
+    <file name="bg3.jpg" crc="18036583" seo="true" ref="phone>index:phone>home:phone>rome-1:phone>rome-2:phone>rome-3:index:home:room-2:room-1:room-3">
+      <caption webpage="rome-3" alt=""/>
+      <caption webpage="room-1" alt=""/>
+      <caption webpage="rome-1" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="room-2" alt=""/>
+      <caption webpage="rome-2" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="room-3" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>home:phone>rome-1:phone>rome-2:phone>rome-3:index:home:room-2:room-1:room-3"/>
+    <file name="logo55-u4149.png" crc="165968265" ref="phone>home"/>
+    <file name="1-u1795.png" crc="534207441" seo="true" ref="phone>home:home:room-2:room-1:room-3">
+      <caption webpage="room-2" alt=""/>
+      <caption webpage="room-1" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="room-3" alt=""/>
+    </file>
+    <file name="u2136.png" crc="337962113" ref="phone>home"/>
+    <file name="u2136-r.png" crc="4124842406" ref="phone>home"/>
+    <file name="u2138.png" crc="3966463163" ref="phone>home"/>
+    <file name="u2138-r.png" crc="3827317692" ref="phone>home"/>
+    <file name="u2140.png" crc="31425919" ref="phone>home"/>
+    <file name="u2140-r.png" crc="4141605526" ref="phone>home"/>
+    <file name="u2142.png" crc="71745329" ref="phone>home"/>
+    <file name="u2142-r.png" crc="4145362221" ref="phone>home"/>
+    <file name="u2144.png" crc="227462866" ref="phone>home"/>
+    <file name="u2144-r.png" crc="4106431913" ref="phone>home"/>
+    <file name="u2146.png" crc="4057727185" ref="phone>home"/>
+    <file name="u2146-r.png" crc="311232632" ref="phone>home"/>
+    <file name="bg2-u2953-fr.jpg" crc="4093677250" ref="phone>home"/>
+    <file name="bg1-u2962-fr.jpg" crc="439786901" ref="phone>home"/>
+    <file name="bg3-u2970-fr.jpg" crc="70953367" ref="phone>home"/>
+    <file name="zal1.jpg" crc="51637338" ref="phone>rome-1:room-1">
+      <caption webpage="rome-1" alt=""/>
+    </file>
+    <file name="zal1-u3376-fr.jpg" crc="314682252" ref="phone>rome-1"/>
+    <file name="logo55-u4133.png" crc="165968265" ref="phone>rome-1"/>
+    <file name="u3486.png" crc="337962113" ref="phone>rome-1"/>
+    <file name="u3486-r.png" crc="4124842406" ref="phone>rome-1"/>
+    <file name="u3488.png" crc="3966463163" ref="phone>rome-1"/>
+    <file name="u3488-r.png" crc="3827317692" ref="phone>rome-1"/>
+    <file name="u3490.png" crc="31425919" ref="phone>rome-1"/>
+    <file name="u3490-r.png" crc="4141605526" ref="phone>rome-1"/>
+    <file name="u3492.png" crc="71745329" ref="phone>rome-1"/>
+    <file name="u3492-r.png" crc="4145362221" ref="phone>rome-1"/>
+    <file name="u3494.png" crc="227462866" ref="phone>rome-1"/>
+    <file name="u3494-r.png" crc="4106431913" ref="phone>rome-1"/>
+    <file name="u3496.png" crc="4057727185" ref="phone>rome-1"/>
+    <file name="u3496-r.png" crc="311232632" ref="phone>rome-1"/>
+    <file name="zal2.jpg" crc="294290612" ref="phone>rome-2:room-2">
+      <caption webpage="rome-2" alt=""/>
+    </file>
+    <file name="zal2-u3672-fr.jpg" crc="3892073516" ref="phone>rome-2"/>
+    <file name="logo55-u4120.png" crc="165968265" ref="phone>rome-2"/>
+    <file name="u3706.png" crc="337962113" ref="phone>rome-2"/>
+    <file name="u3706-r.png" crc="4124842406" ref="phone>rome-2"/>
+    <file name="u3711.png" crc="3966463163" ref="phone>rome-2"/>
+    <file name="u3711-r.png" crc="3827317692" ref="phone>rome-2"/>
+    <file name="u3681.png" crc="31425919" ref="phone>rome-2"/>
+    <file name="u3681-r.png" crc="4141605526" ref="phone>rome-2"/>
+    <file name="u3678.png" crc="71745329" ref="phone>rome-2"/>
+    <file name="u3678-r.png" crc="4145362221" ref="phone>rome-2"/>
+    <file name="u3703.png" crc="227462866" ref="phone>rome-2"/>
+    <file name="u3703-r.png" crc="4106431913" ref="phone>rome-2"/>
+    <file name="u3715.png" crc="4057727185" ref="phone>rome-2"/>
+    <file name="u3715-r.png" crc="311232632" ref="phone>rome-2"/>
+    <file name="zal3.jpg" crc="4079974814" ref="phone>rome-3:room-3">
+      <caption webpage="rome-3" alt=""/>
+    </file>
+    <file name="zal3-u3896-fr.jpg" crc="3969456285" ref="phone>rome-3"/>
+    <file name="logo55-u4107.png" crc="165968265" ref="phone>rome-3"/>
+    <file name="u3852.png" crc="337962113" ref="phone>rome-3"/>
+    <file name="u3852-r.png" crc="4124842406" ref="phone>rome-3"/>
+    <file name="u3828.png" crc="3966463163" ref="phone>rome-3"/>
+    <file name="u3828-r.png" crc="3827317692" ref="phone>rome-3"/>
+    <file name="u3857.png" crc="31425919" ref="phone>rome-3"/>
+    <file name="u3857-r.png" crc="4141605526" ref="phone>rome-3"/>
+    <file name="u3850.png" crc="71745329" ref="phone>rome-3"/>
+    <file name="u3850-r.png" crc="4145362221" ref="phone>rome-3"/>
+    <file name="u3823.png" crc="227462866" ref="phone>rome-3"/>
+    <file name="u3823-r.png" crc="4106431913" ref="phone>rome-3"/>
+    <file name="u3830.png" crc="4057727185" ref="phone>rome-3"/>
+    <file name="u3830-r.png" crc="311232632" ref="phone>rome-3"/>
+    <file name="logo55-u4090.png" crc="165968265" ref="index"/>
+    <file name="logo55-u571.png" crc="165968265" ref="home"/>
+    <file name="u747.png" crc="337962113" ref="home"/>
+    <file name="u747-r.png" crc="4124842406" ref="home"/>
+    <file name="u755.png" crc="3966463163" ref="home"/>
+    <file name="u755-r.png" crc="3827317692" ref="home"/>
+    <file name="u762.png" crc="31425919" ref="home"/>
+    <file name="u762-r.png" crc="4141605526" ref="home"/>
+    <file name="u769.png" crc="428077250" ref="home"/>
+    <file name="u769-r.png" crc="3828495367" ref="home"/>
+    <file name="u840.png" crc="227462866" ref="home"/>
+    <file name="u840-r.png" crc="4106431913" ref="home"/>
+    <file name="u847.png" crc="4057727185" ref="home"/>
+    <file name="u847-r.png" crc="311232632" ref="home"/>
+    <file name="fd4e65f6e20a8fc284c627c87e964689.jpg" crc="53357342" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="img_3535.jpg" crc="261536490" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="d49c797a69841c527092a656e68bbaa1.jpg" crc="143759921" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="12-u1363.png" crc="4113161704" ref="home"/>
+    <file name="u2287.png" crc="337962113" ref="room-2"/>
+    <file name="u2287-r.png" crc="4124842406" ref="room-2"/>
+    <file name="u2345.png" crc="3966463163" ref="room-2"/>
+    <file name="u2345-r.png" crc="3827317692" ref="room-2"/>
+    <file name="u2369.png" crc="31425919" ref="room-2"/>
+    <file name="u2369-r.png" crc="4141605526" ref="room-2"/>
+    <file name="u2306.png" crc="428077250" ref="room-2"/>
+    <file name="u2306-r.png" crc="3828495367" ref="room-2"/>
+    <file name="u2354.png" crc="227462866" ref="room-2"/>
+    <file name="u2354-r.png" crc="4106431913" ref="room-2"/>
+    <file name="u2303.png" crc="4057727185" ref="room-2"/>
+    <file name="u2303-r.png" crc="311232632" ref="room-2"/>
+    <file name="logo55-u4014.png" crc="165968265" ref="room-2"/>
+    <file name="u2449.png" crc="337962113" ref="room-1"/>
+    <file name="u2449-r.png" crc="4124842406" ref="room-1"/>
+    <file name="u2506.png" crc="3966463163" ref="room-1"/>
+    <file name="u2506-r.png" crc="3827317692" ref="room-1"/>
+    <file name="u2452.png" crc="31425919" ref="room-1"/>
+    <file name="u2452-r.png" crc="4141605526" ref="room-1"/>
+    <file name="u2456.png" crc="428077250" ref="room-1"/>
+    <file name="u2456-r.png" crc="3828495367" ref="room-1"/>
+    <file name="u2447.png" crc="227462866" ref="room-1"/>
+    <file name="u2447-r.png" crc="4106431913" ref="room-1"/>
+    <file name="u2512.png" crc="4057727185" ref="room-1"/>
+    <file name="u2512-r.png" crc="311232632" ref="room-1"/>
+    <file name="logo55-u4053.png" crc="165968265" ref="room-1"/>
+    <file name="u2813.png" crc="337962113" ref="room-3"/>
+    <file name="u2813-r.png" crc="4124842406" ref="room-3"/>
+    <file name="u2821.png" crc="3966463163" ref="room-3"/>
+    <file name="u2821-r.png" crc="3827317692" ref="room-3"/>
+    <file name="u2825.png" crc="31425919" ref="room-3"/>
+    <file name="u2825-r.png" crc="4141605526" ref="room-3"/>
+    <file name="u2782.png" crc="428077250" ref="room-3"/>
+    <file name="u2782-r.png" crc="3828495367" ref="room-3"/>
+    <file name="u2808.png" crc="227462866" ref="room-3"/>
+    <file name="u2808-r.png" crc="4106431913" ref="room-3"/>
+    <file name="u2823.png" crc="4057727185" ref="room-3"/>
+    <file name="u2823-r.png" crc="311232632" ref="room-3"/>
+    <file name="logo55-u4040.png" crc="165968265" ref="room-3"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="rome-1.css" crc="99962983" ref="phone>rome-1"/>
+      <file name="index.css" crc="491696301" ref="phone>index"/>
+      <file name="rome-2.css" crc="3930510431" ref="phone>rome-2"/>
+      <file name="rome-3.css" crc="4046186552" ref="phone>rome-3"/>
+      <file name="home.css" crc="242547973" ref="phone>home"/>
+      <file name="iefonts_home.css" crc="439893934" ref="phone>home"/>
+    </folder>
+    <file name="index.html" crc="172109818" seo="true" mt="1487520051651" redirect="true"/>
+    <file name="home.html" crc="4016702046" seo="true" mt="1487520051651" redirect="true"/>
+    <file name="rome-1.html" crc="86766236" seo="true" mt="1487520051651" redirect="true"/>
+    <file name="rome-2.html" crc="288892834" seo="true" mt="1487520051651" redirect="true"/>
+    <file name="rome-3.html" crc="138227444" seo="true" mt="1487520051651" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="404304092" seo="true" mt="1487513400651" redirect="true"/>
+  <file name="home.html" crc="3884026142" seo="true" mt="1487513400651" redirect="true"/>
+  <file name="room-2.html" crc="207859075" seo="true" mt="1487513400651" redirect="true"/>
+  <file name="room-1.html" crc="31647633" seo="true" mt="1487513400651" redirect="true"/>
+  <file name="room-3.html" crc="507437747" seo="true" mt="1487513400651" redirect="true"/>
+</manifest>
